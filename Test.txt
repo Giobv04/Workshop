@@ -1,0 +1,5 @@
+Checker le dernier fichier push sur le repository
+Afficher le contenu du fichier git
+Convertir le fichier du git en json et sauvegarder dans l’ordinateur
+
+bon courage
